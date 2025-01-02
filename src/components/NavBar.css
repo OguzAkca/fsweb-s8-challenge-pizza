@@ -1,0 +1,11 @@
+.navbar{
+    background-color: red;
+    width: 100%;
+}
+
+.navbar p {
+    font-size: 1.7rem;
+    font-family: 'Londrina Solid' , sans-serif;
+    text-align: center; 
+    padding: 1em;
+}
