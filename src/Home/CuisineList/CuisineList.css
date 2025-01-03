@@ -1,0 +1,21 @@
+.cuisine-list {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    padding: 0 16em;
+}
+
+.cusine-item{
+    display: flex;
+    gap: 2em;
+    align-items: center;
+    color: black;
+    list-style: none;
+    font-weight: 500;
+    padding: 0.5em 1em;
+}
+
+.cusine-item img {
+    width: 2rem;
+}

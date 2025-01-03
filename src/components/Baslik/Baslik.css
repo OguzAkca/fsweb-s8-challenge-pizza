@@ -1,0 +1,10 @@
+.baslik {
+    display: flex;
+    font-family: 'Londrina Solid' , sans-serif;
+    font-size: 1.5rem;
+    flex-direction: column;
+    font-weight: bold;
+    flex-direction: column;
+    color: #FAF7F2;
+    
+}
