@@ -4,9 +4,8 @@ import workintech from '/workintech.svg'
 import './App.css'
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import NavBar from './components/NavBar/NavBar.jsx'
-
 import Home from './Home/Home.jsx'
-import Order from './components/Order'
+import Order from './Order/Order.jsx'
 import Success from './components/Success'
 import ErrorPage from './components/ErrorPage'
 import Baslik from './components/Baslik/Baslik.jsx'

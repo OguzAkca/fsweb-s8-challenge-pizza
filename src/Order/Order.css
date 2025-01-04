@@ -1,0 +1,12 @@
+.ana-baslik{
+    display: flex;
+    flex-direction: column;
+}
+.h1-bg {
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    background-color: red;
+    padding: 10px; /* İsteğe bağlı: Arka planın daha iyi görünmesi için */
+    width: 100% ;
+  }
